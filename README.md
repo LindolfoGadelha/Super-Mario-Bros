@@ -11,6 +11,9 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-js"/>
 
-<img src="https://github.com/LindolfoGadelha/Super-Mario-Bros/blob/main/img/Design%20sem%20nome%20(1).png?raw=true"/>
+<img src="https://github.com/LindolfoGadelha/Super-Mario-Bros/blob/main/img/Design%20sem%20nome.png?raw=true" alt="img-pc"/>
+
+
+<img src="https://github.com/LindolfoGadelha/Super-Mario-Bros/blob/main/img/Design%20sem%20nome%20(1).png?raw=true" alt="img-cel"/>
 
 
